@@ -1,6 +1,3 @@
-Here's an attractive and professional README template for your agency's GitHub account:
-
----
 
 # 🌐 **Opam Technology - Innovate. Collaborate. Succeed.**
 
